@@ -1,0 +1,13 @@
+package service;
+
+public class TaxaServicoBrasil implements TaxaServico {
+
+	@Override
+	public double taxaServico(double taxaServico) {
+		if (taxaServico <= 100.0) {
+			return taxaServico * 0.2;
+		} else {
+			return taxaServico * 0.15;
+		}
+	}
+}

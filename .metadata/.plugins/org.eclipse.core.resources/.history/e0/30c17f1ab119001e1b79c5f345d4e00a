@@ -1,0 +1,10 @@
+package servico;
+
+public class PayPalService implements ServicoPagamento {
+	
+	Double taxa;
+	
+	Double juros;
+	
+	
+}

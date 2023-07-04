@@ -1,0 +1,24 @@
+package service;
+
+import entidade.AluguelCarro;
+
+public class AluguelCarroService {
+
+	private double precoPorHora;
+
+	private double precoPorDia;
+	
+	private TaxaServico taxaServico;
+	
+	public AluguelCarroService(double precoPorHora, double precoPorDia, TaxaServico taxaServico) {
+		this.precoPorHora = precoPorHora;
+		this.precoPorDia = precoPorDia;
+		this.taxaServico = taxaServico;
+	}
+
+	public void geradorDeFatura(AluguelCarro aluguelCarro) {
+		
+		int resultadoTempo = aluguelCarro.getDataEntrada().getMinute() - aluguelCarro.getDataRetirada().getMinute();
+	
+	}
+}

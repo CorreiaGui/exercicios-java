@@ -1,0 +1,10 @@
+package exercicio.contrato.service;
+
+import entidades.Contrato;
+
+public class ContratoService {
+	
+	Contrato contrato;
+	
+	Integer meses;
+}

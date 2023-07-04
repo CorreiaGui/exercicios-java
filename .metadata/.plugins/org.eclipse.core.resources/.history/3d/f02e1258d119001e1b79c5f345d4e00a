@@ -1,0 +1,48 @@
+package entidade;
+
+import java.time.LocalDateTime;
+
+public class AluguelCarro {
+	
+	private Carro carro;
+	
+	private LocalDateTime dataEntrada;
+	
+	private LocalDateTime dataRetirada;
+
+
+	public AluguelCarro(Carro carro, LocalDateTime dataEntrada, LocalDateTime dataRetirada) {
+		this.setCarro(carro);
+		this.setDataEntrada(dataEntrada);
+		this.setDataRetirada(dataRetirada);
+	}
+
+
+	public Carro getCarro() {
+		return carro;
+	}
+
+
+	public void setCarro(Carro carro) {
+		this.carro = carro;
+	}
+
+
+	public LocalDateTime getDataEntrada() {
+		return dataEntrada;
+	}
+
+
+	public void setDataEntrada(LocalDateTime dataEntrada) {
+		this.dataEntrada = dataEntrada;
+	}
+
+
+	public LocalDateTime getDataRetirada() {
+		return dataRetirada;
+	}
+
+	public void setDataRetirada(LocalDateTime dataRetirada) {
+		this.dataRetirada = dataRetirada;
+	}
+}

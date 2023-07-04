@@ -1,0 +1,28 @@
+
+p	java:S1061"9Replace this use of System.out or System.err by a logger.(³îÖÿÿÿÿÿ8À¬•ç‘1HRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÚ¤ú8À¬•ç‘1HRMAJORZ
+CODE_SMELL
+j	java:S106."9Replace this use of System.out or System.err by a logger.(íÄ‹8À¬•ç‘1H›RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8À¬•ç‘1HœRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÚ¢¿8À¬•ç‘1H•RMAJORZ
+CODE_SMELL
+h
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8À¬•ç‘1H¢RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(•Êªúÿÿÿÿ8À¬•ç‘1H”RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.( å¶ìúÿÿÿÿ8À¬•ç‘1H¡RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(Ûô†Âıÿÿÿÿ8À¬•ç‘1H–RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(£Ñ¹ğûÿÿÿÿ8À¬•ç‘1H RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(º¹ÿ€ÿÿÿÿÿ8À¬•ç‘1HŸRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ÇÇ‹€şÿÿÿÿ8À¬•ç‘1H™RMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8À¬•ç‘1HšRMAJORZ
+CODE_SMELL

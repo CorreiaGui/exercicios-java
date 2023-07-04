@@ -1,0 +1,35 @@
+package entidade;
+
+public class Fatura {
+	
+	private double pagamentoBasio;
+	
+	private double taxa;
+	
+	private double totalPagamento;
+	
+	public Fatura() {
+		
+	}
+	
+	public Fatura(double pagamentoBasio, double taxa) {
+		this.pagamentoBasio = pagamentoBasio;
+		this.taxa = taxa;
+	}
+
+	public double getPagamentoBasio() {
+		return pagamentoBasio;
+	}
+
+	public void setPagamentoBasio(double pagamentoBasio) {
+		this.pagamentoBasio = pagamentoBasio;
+	}
+
+	public double getTaxa() {
+		return taxa;
+	}
+
+	public void setTaxa(double taxa) {
+		this.taxa = taxa;
+	}
+}

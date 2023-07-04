@@ -1,0 +1,20 @@
+package entidades;
+
+import java.time.LocalDate;
+
+public class Prestacao {
+	
+	LocalDate dataVencimento;
+	
+	Double valor;
+
+	public Prestacao(LocalDate dataVencimento, Double valor) {
+		super();
+		this.dataVencimento = dataVencimento;
+		this.valor = valor;
+	}
+	
+	public Prestacao() {
+		
+	}
+}

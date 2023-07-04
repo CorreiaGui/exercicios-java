@@ -1,0 +1,10 @@
+package servico;
+
+import entidades.Contrato;
+
+public class ContratoService {
+	
+	Contrato contrato;
+	
+	Integer meses;
+}

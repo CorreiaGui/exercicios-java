@@ -1,0 +1,19 @@
+package servico;
+
+import entidades.Contrato;
+
+public class ContratoService {
+	
+	Contrato contrato;
+	
+	Integer meses;
+
+	public ContratoService(Contrato contrato, Integer meses) {
+		this.contrato = contrato;
+		this.meses = meses;
+	}
+	
+	public ContratoService() {
+		
+	}
+}

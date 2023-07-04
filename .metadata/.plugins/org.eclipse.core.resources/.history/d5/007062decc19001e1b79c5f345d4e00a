@@ -1,0 +1,15 @@
+package service;
+
+import entidade.AluguelCarro;
+
+public class AluguelCarroService {
+
+	private double precoPorHora;
+
+	private double precoPorDia;
+	
+	
+	public void geradorDeFatura(AluguelCarro aluguelCarro) {
+		
+	}
+}

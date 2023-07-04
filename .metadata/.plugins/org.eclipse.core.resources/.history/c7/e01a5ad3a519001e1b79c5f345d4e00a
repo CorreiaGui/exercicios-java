@@ -1,0 +1,14 @@
+package exercicio_contrato;
+
+import java.util.Date;
+
+public class Contrato {
+	
+	Integer numero;
+	
+	Date data;
+	
+	Double valor;
+	
+	
+}

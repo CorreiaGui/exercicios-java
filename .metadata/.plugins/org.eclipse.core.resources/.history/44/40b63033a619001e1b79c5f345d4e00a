@@ -1,0 +1,8 @@
+package exercicio.contrato.service;
+
+public class PagamentoOnlineService {
+	
+	Double taxa;
+	
+	Double juros;
+}

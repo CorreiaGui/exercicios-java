@@ -1,0 +1,12 @@
+package servico;
+
+public interface ServicoPagamento {
+	
+	double taxaPagemento() {
+		
+	}
+	
+	double juros() {
+		
+	}
+}

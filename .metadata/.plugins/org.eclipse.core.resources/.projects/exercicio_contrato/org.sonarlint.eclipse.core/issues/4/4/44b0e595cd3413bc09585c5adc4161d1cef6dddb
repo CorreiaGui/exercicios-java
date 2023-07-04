@@ -1,0 +1,8 @@
+
+ç	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óÚ’@8§’Ä‡ë1HRCRITICALZ
+CODE_SMELL
+é	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Áºœù8§’Ä‡ë1HRCRITICALZ
+CODE_SMELL
+x
+java:S1214"CMove constants defined in this interfaces to another class or enum.(ÉÀ≠§8§’Ä‡ë1HRCRITICALZ
+CODE_SMELL

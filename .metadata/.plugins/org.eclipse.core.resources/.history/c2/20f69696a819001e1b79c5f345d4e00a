@@ -1,0 +1,16 @@
+package entidades;
+
+import java.util.Date;
+
+public class Contrato {
+	
+	Integer numero;
+	
+	Date data;
+	
+	Double valor;
+	
+	public Contrato() {
+		
+	}
+}

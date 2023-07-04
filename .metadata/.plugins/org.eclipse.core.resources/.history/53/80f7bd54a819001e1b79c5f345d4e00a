@@ -1,0 +1,8 @@
+package exercicio.contrato.service;
+
+public interface ServicoPagamento {
+	
+	public static final Double taxa = null;
+	
+	public static final Double juros = null;
+}

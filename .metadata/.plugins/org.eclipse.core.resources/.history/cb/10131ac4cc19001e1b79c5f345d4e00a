@@ -1,0 +1,10 @@
+package entidade;
+
+import java.time.LocalDateTime;
+
+public class AluguelCarro {
+	
+	private LocalDateTime dataEntrada;
+	
+	private LocalDateTime dataRetirada;
+}

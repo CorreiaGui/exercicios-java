@@ -1,0 +1,9 @@
+package service;
+
+public class TaxaServicoBrasil implements TaxaServico{
+
+	@Override
+	public double taxaServico(double taxaServico) {
+		return 0;
+	}
+}

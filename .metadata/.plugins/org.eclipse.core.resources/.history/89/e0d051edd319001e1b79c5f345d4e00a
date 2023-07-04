@@ -1,0 +1,8 @@
+package entidade;
+
+public class Fatura {
+	
+	private Double pagamentoBasio;
+	
+	private Double taxa;
+}

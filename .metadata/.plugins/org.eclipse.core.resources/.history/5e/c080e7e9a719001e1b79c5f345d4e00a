@@ -1,0 +1,10 @@
+package exercicio.contrato.service;
+
+public class PayPalService {
+	
+	Double taxa;
+	
+	Double juros;
+	
+	
+}

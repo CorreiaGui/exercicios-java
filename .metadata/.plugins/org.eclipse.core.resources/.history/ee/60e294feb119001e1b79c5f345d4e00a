@@ -1,0 +1,16 @@
+package servico;
+
+import entidades.Contrato;
+
+public class ContratoService {
+	
+	private ServicoPagamento servicoPagamento;
+
+	public ContratoService(ServicoPagamento servicoPagamento) {
+		this.servicoPagamento = servicoPagamento;
+	}
+	
+	public void contractProcess() {
+		
+	}
+}

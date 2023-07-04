@@ -1,0 +1,10 @@
+package exercicio.contrato;
+
+import java.util.Date;
+
+public class Prestacao {
+	
+	Date data;
+	
+	Double valor;
+}

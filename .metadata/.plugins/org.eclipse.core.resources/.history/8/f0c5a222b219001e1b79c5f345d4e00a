@@ -1,0 +1,20 @@
+package servico;
+
+import java.time.LocalDate;
+
+import entidades.Contrato;
+import entidades.Prestacao;
+
+public class ContratoService {
+
+	private ServicoPagamento servicoPagamento;
+
+	public ContratoService(ServicoPagamento servicoPagamento) {
+		this.servicoPagamento = servicoPagamento;
+	}
+
+	public void contractProcess(Contrato contrato, int meses) {
+		contrato.getPrestacoes()
+			.add(new Prestacao(LocalDate.of(2023, 05, 05), Double.valueOf(300)));
+	}
+}

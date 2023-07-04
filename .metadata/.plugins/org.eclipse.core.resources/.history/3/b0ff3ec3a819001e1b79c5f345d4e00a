@@ -1,0 +1,22 @@
+package entidades;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+public class Contrato {
+	
+	Integer numero;
+	
+	Date data;
+	
+	Double valor;
+	
+	List<Prestacao> prestacoes = new ArrayList<>();
+	
+	public Contrato() {
+		
+	}
+	
+	
+}

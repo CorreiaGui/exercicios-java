@@ -1,0 +1,7 @@
+package service;
+
+public interface TaxaServico {
+	
+	public double taxaServico = double TaxaServico();
+	
+}

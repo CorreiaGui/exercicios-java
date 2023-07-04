@@ -1,0 +1,23 @@
+
+_
+java:S1481#"-Remove this unused "parcelas" local variable.(é·ël8¡Ù×á‘1H‡RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(÷¥îøýÿÿÿÿ8°‚¥â‘1HÉRMAJORZ
+CODE_SMELL
+o	java:S106,"9Replace this use of System.out or System.err by a logger.(ÌÅø­úÿÿÿÿ8Ç¾Éà‘1H-RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(€È¥×ÿÿÿÿÿ8Ç¾Éà‘1H,RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ëüû–8 Ÿ©â‘1HÏRMAJORZ
+CODE_SMELL
+j	java:S106%"9Replace this use of System.out or System.err by a logger.(«æ«Â8Ç¾Éà‘1H3RMAJORZ
+CODE_SMELL
+n
+java:S1854#"<Remove this useless assignment to local variable "parcelas".(é·ël8¡Ù×á‘1H†RMAJORZ
+CODE_SMELL
+o	java:S106"9Replace this use of System.out or System.err by a logger.(Ðâ¤Âüÿÿÿÿ8º¢Öá‘1H|RMAJORZ
+CODE_SMELL
+j	java:S106""9Replace this use of System.out or System.err by a logger.(¶ý¾¤8Ç¾Éà‘1H0RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8ªâÎå‘1HˆRMAJORZ
+CODE_SMELL

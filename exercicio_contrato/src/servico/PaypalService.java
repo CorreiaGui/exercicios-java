@@ -1,0 +1,14 @@
+package servico;
+
+public class PaypalService implements ServicoPagamento{
+
+	@Override
+	public double taxaPagemento(double quantia) {
+		return quantia * 0.02;
+	}
+
+	@Override
+	public double juros(double quantia, int meses) {
+		return quantia * 0.01 * meses;
+	}
+}

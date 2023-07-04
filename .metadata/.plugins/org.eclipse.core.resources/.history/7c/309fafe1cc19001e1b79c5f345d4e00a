@@ -1,0 +1,20 @@
+package service;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+import entidade.AluguelCarro;
+
+public class AluguelCarroService {
+
+	private double precoPorHora;
+
+	private double precoPorDia;
+	
+	
+	public void geradorDeFatura(AluguelCarro aluguelCarro) {
+		
+		LocalDateTime data = aluguelCarro.getDataEntrada() - aluguelCarro.getDataRetirada();
+		
+	}
+}

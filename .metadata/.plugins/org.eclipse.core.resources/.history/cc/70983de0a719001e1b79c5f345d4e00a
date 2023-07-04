@@ -1,0 +1,7 @@
+package exercicio.contrato.service;
+
+public interface ServicoPagamento {
+	Double taxa;
+	
+	Double juros;
+}
